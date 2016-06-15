@@ -1,2 +1,1 @@
-# Cookiee
-クッキークリッカー的な何か
+![](http://i.imgur.com/dnLcFbV.jpg)
